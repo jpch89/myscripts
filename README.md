@@ -4,3 +4,6 @@
 ## 脚本目录
 - `movchopper`
 剪辑视频的脚本，用到了第三方库 `moviepy`。
+
+- `setkeyboardlayout`
+把键盘布局设置为英语（美国）。
